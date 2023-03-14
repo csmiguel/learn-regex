@@ -1,32 +1,32 @@
-Fru-SWA	strawberry	‘Sweet Ann’	root	Tucumán	Country:Argentina	2013Fru-Ely	strawberry	‘Elyana’	crown	Tucumán	Country:Argentina	2015
-Fru-Paj	strawberry	‘Pájaro’	crown	Tucumán	Country:Argentina	2011
-Fru-CR	strawberry	‘Camino Real’	crown	Tucumán	Country:Argentina	2011
-Fru-Car	strawberry	‘Carmela’	crown	Tucumán	Country:Argentina	2011
-Fru-Sab	strawberry	‘Sabrina’	root	Tucumán	Country:Argentina	2013
-Fru-Alb	strawberry	‘TOR-Albion’	crown	Tucumán	Country:Argentina	2011
-Fru-Cam	strawberry	‘Camarosa’	crown	Tucumán	Country:Argentina	2011
-Fru-Erli	strawberry	‘Erlibrite’	crown	Tucumán	Country:Argentina	2015
-Fru-Trea	strawberry	‘Treasure’	crown	Tucumán	Country:Argentina	2011
-Fru-For	strawberry	‘Fortuna’	crown	Tucumán	Country:Argentina	2013
-Fru-Mac	strawberry	‘Macarena’	crown	Tucumán	Country:Argentina	2011
-Fru-Fes	strawberry	‘Festival’	crown	Tucumán	Country:Argentina	2015
-gi-ACA885	sunflower	Gi-ACA 885	root	Santa Fe	Country:Argentina	2011
-Gi-P65A25	sunflower	Gi-P65A25	root	Santa Fe	Country:Argentina	2011Gi-A963	sunflower	Gi-A963	root	Santa Fe	Country:Argentina	2011
-Gi-AG4	sunflower	Aguará 4	root	Santa Fe	Country:Argentina	2011
-Gi-PAN1031	sunflower	Gi-PAN 1031	root	Santa Fe	Country:Argentina	2011
-Por-Lea	bean	Alubia	seed	Tucumán	Country:Argentina	2011
-Soj-Bal	soybean	A8002	root	Salta	Country:Argentina	2011
-ar-SB	blueberry	Southern Bell	root	Tucumán	Country:Argentina	2011
-TOR-102	strawberry	‘Camarosa’	soil	Huelva	Country:Spain	2011
-TOR-840	hemp	HÍBRIDO-H3	root	Seville	Country:Spain	2016
+Fru-SWA	strawberry	‘Sweet Ann’	root	Tucumán	Argentina	2013Fru-Ely	strawberry	‘Elyana’	crown	Tucumán	Argentina	2015
+Fru-Paj	strawberry	‘Pájaro’	crown	Tucumán	Argentina	2011
+Fru-CR	strawberry	‘Camino Real’	crown	Tucumán	Argentina	2011
+Fru-Car	strawberry	‘Carmela’	crown	Tucumán	Argentina	2011
+Fru-Sab	strawberry	‘Sabrina’	root	Tucumán	Argentina	2013
+Fru-Alb	strawberry	‘TOR-Albion’	crown	Tucumán	Argentina	2011
+Fru-Cam	strawberry	‘Camarosa’	crown	Tucumán	Argentina	2011
+Fru-Erli	strawberry	‘Erlibrite’	crown	Tucumán	Argentina	2015
+Fru-Trea	strawberry	‘Treasure’	crown	Tucumán	Argentina	2011
+Fru-For	strawberry	‘Fortuna’	crown	Tucumán	Argentina	2013
+Fru-Mac	strawberry	‘Macarena’	crown	Tucumán	Argentina	2011
+Fru-Fes	strawberry	‘Festival’	crown	Tucumán	Argentina	2015
+gi-ACA885	sunflower	Gi-ACA 885	root	Santa Fe	Argentina	2011
+Gi-P65A25	sunflower	Gi-P65A25	root	Santa Fe	Argentina	2011Gi-A963	sunflower	Gi-A963	root	Santa Fe	Argentina	2011
+Gi-AG4	sunflower	Aguará 4	root	Santa Fe	Argentina	2011
+Gi-PAN1031	sunflower	Gi-PAN 1031	root	Santa Fe	Argentina	2011
+Por-Lea	bean	Alubia	seed	Tucumán	Argentina	2011
+Soj-Bal	soybean	A8002	root	Salta	Argentina	2011
+ar-SB	blueberry	Southern Bell	root	Tucumán	Argentina	2011
+TOR-102	strawberry	‘Camarosa’	soil	Huelva	Spain	2011
+TOR-840	hemp	HÍBRIDO-H3	root	Seville	Spain	2016
 ¿?·Fasdfal.ar+!fasdfñjñ%&&"$!"
-TOR-854	strawberry	‘Fortuna-Florida’	soil	Huelva	Country:Spain	2017
-TOR-855	strawberry	‘Calenda’	soil	Huelva	Country:Spain	2017
-TOR-860	corn	nda	cane	Seville	Country:Spain	2017
-TOR-861	blueberry	Star	root	Huelva	Country:Spain	2017
-TOR-862	blueberry	Star	stem	Huelva	Country:Spain	2017
-TOR-872	blueberry	Ventura	petiole	Huelva	Country:Spain	2017
+TOR-854	strawberry	‘Fortuna-Florida’	soil	Huelva	Spain	2017
+TOR-855	strawberry	‘Calenda’	soil	Huelva	Spain	2017
+TOR-860	corn	nda	cane	Seville	Spain	2017
+TOR-861	blueberry	Star	root	Huelva	Spain	2017
+TOR-862	blueberry	Star	stem	Huelva	Spain	2017
+TOR-872	blueberry	Ventura	petiole	Huelva	Spain	2017
 +!fasdfñjñ%&&"$!"
-TOR-876	strawberry	‘Rociera’	crown	Huelva	Country:Spain	2017
-TOR-878	strawberry	‘Rociera’	root	Huelva	Country:Spain	2017
-TOR-888	hemp	Sara	petiole	Seville	Country:Spain	2017
+TOR-876	strawberry	‘Rociera’	crown	Huelva	Spain	2017
+TOR-878	strawberry	‘Rociera’	root	Huelva	Spain	2017
+TOR-888	hemp	Sara	petiole	Seville	Spain	2017
