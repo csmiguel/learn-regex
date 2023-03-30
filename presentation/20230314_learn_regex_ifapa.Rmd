@@ -3,11 +3,19 @@ title: "Learn Regex - IFAPA"
 author: "Miguel Camacho"
 date: "2023-03-14"
 output: ioslides_presentation
+fontsize: 16pt
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Reemplazar
+![buscar y reemplazar](../img/caperucita.png)
+
+## Búsquedas más complejas
+![más complejas...](../img/hello.png)
+
 
 ## Expresiones regulares
 
@@ -24,6 +32,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - texto sin formato: ej. **txt** **csv** **tsv** ~~docx~~
 - codificación simple => legible por muchos programas
 - editor de texto plano: eg [Notepad++](https://notepad-plus-plus.org/downloads/)
+- constructor online de [ReGex](https://regexr.com/)
 
 ## Ejercicios
 
